@@ -4,7 +4,7 @@
 ![Consultoria](https://img.shields.io/badge/Consultoria-Flexível-brightgreen)
 ![Proatividade](https://img.shields.io/badge/Proativa-Soluções%20reais-orange)
 
-Somos a **NS Consultoria**, engenheiros especialistas em BI para pequenas e médias empresas do comércio.  
+Somos a **NS Consultoria**, engenheiros especialistas em BI para pequenas e médias empresas da indústria e comércio.  
 Transformamos dados em decisões rápidas, criando dashboards **personalizados no Power BI** e soluções adaptadas à realidade de cada cliente.
 
 Trabalhamos de forma **proativa, flexível e próxima**, ajudando os clientes a identificar oportunidades estratégicas e alcançar resultados concretos.  
