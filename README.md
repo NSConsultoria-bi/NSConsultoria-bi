@@ -10,6 +10,6 @@ Transformamos dados em decisões rápidas, criando dashboards **personalizados n
 Trabalhamos de forma **proativa, flexível e próxima**, ajudando os clientes a identificar oportunidades estratégicas e alcançar resultados concretos.  
 
 💡 Quer saber mais ou entrar em contato?  
-| [LinkedIn](https://www.linkedin.com/in/ewerton-silva-eq/) | [Email](contatoewerton.ams@gmail.com)
+| [LinkedIn](https://www.linkedin.com/in/ewerton-silva-eq/) | [Email](nsconsultoria.contato@gmail.com)
 
 🏢💼📊🧠
